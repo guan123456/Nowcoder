@@ -34,6 +34,7 @@ public class NC51 {
 		return result;
 	}
 
+	
 	public ListNode merge(ListNode list1,ListNode list2) {
 		if(list1 == null) {
 			return list2;
